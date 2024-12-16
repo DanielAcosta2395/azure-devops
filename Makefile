@@ -1,2 +1,2 @@
 hello:
-    echo "This is my first make comman"
+    echo "This is my first make command"
